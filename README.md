@@ -1,4 +1,4 @@
-HelloWorld simple java application
+HelloWorld simple java application from github
 ==========
 
 A simple Java application that can be compiled into a .jar file using Maven.
